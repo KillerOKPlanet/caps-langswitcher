@@ -16,7 +16,12 @@ A lightweight keyboard layout switcher that uses **CapsLock** to toggle between 
     ```
 4. Compile:
     ```cmd
-    g++ -mwindows -o langswitcher16.exe langsw.cpp resource.res -ld2d1 -ldwrite
+    g++ -mwindows -o langswitcher.exe langsw.cpp resource.res -ld2d1 -ldwrite
     ```
+5. Place exe into startup location:
+![image](https://github.com/user-attachments/assets/4f607527-9613-440f-86f8-afbc357f3f29)
 
+```
+shell:startup
+```
 
