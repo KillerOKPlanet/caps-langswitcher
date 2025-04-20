@@ -1,4 +1,5 @@
 # caps-langswitcher
+![demo](https://github.com/user-attachments/assets/b7afe0c6-b7cc-489a-b2c1-a3db867ba30d)
 
 A lightweight keyboard layout switcher that uses **CapsLock** to toggle between **English** and the last used language.  
 **Shift+CapsLock** works as regular **CapsLock**.
