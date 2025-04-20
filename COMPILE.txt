@@ -1,0 +1,1 @@
+g++ -mwindows -o langswitcher16.exe langsw.cpp resource.res -ld2d1 -ldwrite
